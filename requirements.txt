@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+mlxtend
+jupyter
+ipywidgets
+jupyterlab
